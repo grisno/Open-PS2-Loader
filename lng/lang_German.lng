@@ -1,0 +1,140 @@
+# translation by Thinner & the ps3-tools.de community
+German
+               WILLKOMMEN BEIM OPEN PS2 LOADER. DAS HAUPTPROGRAMM BASIERT AUF DEM QUELLCODE DES HD PROJEKTS <http://psx-scene.com> PORTIERUNG IN DAS USB ADVANCE FORMAT UND STANDARD GUI BY IFCARO <http://ps2dev.ifcaro.net> DAS MEISTE DES LOADER PROGRAMMS IST VON JIMMIKAELKAEL PROGRAMMIERT. ALLE GUI ERWEITERUNGEN WURDEN VON VOLCA ERSTELLT. DANKE FÜR DAS BENUTZEN UNSERES PROGRAMMS ^^
+Open PS2 Loader %s
+Konfiguration speichern
+Zurück
+Netzwerk-Konfiguration
+<kein Wert>
+Konfiguration gespeichert ...
+Fehler beim Speichern der Konfiguration!
+Verlassen
+Konfiguration
+USB Spiele
+HDD Spiele
+ETH Spiele
+Programme
+Theme
+Sprache
+Fehler beim Starten des Netzwerks: %d
+Ein
+Aus
+Ok
+Spieleinstellungen
+Alle Einstellungen entfernen
+Alle Einstellungen des Spiels entfernt.
+Scrolling
+Langsam
+Mittel
+Schnell
+Standardmenü
+Von Disk laden
+Bitte warten
+Fehler beim Laden der Spiel-ID
+Automatische Sortierung
+Fehler beim Laden der Sprachdatei
+Keine Debugfarben
+Kein Controller gefunden, warte ...
+Cover-Art einschalten
+Breitbild
+Ausschalten
+Konfiguration laden
+Konfiguration speichern
+Gerät starten
+USB Startmodus
+HDD Startmodus
+ETH Startmodus
+APP Startmodus
+Automatisch
+Manuell
+HDL Server starten
+HDL Server wird gestartet ...
+HDL Server läuft ... Drücke [O] zum Beenden
+Drücke [X] um den HDL Server zu schließen
+HDL Server wird beendet ...
+Beim Beenden starten
+Hintergrundfarbe
+Textfarbe
+IP-Adresse
+Netzwerkmaske
+Gateway
+Port
+Freigabe
+Benutzer
+Passwort
+<keine Eingabe>
+Bestätigen
+Eintrag wird endgültig gelöscht, fortfahren?
+Umbenennen
+Löschen
+Starten
+Anzeige-Konfiguration
+Löschen/Umbenennen aktivieren
+USB-Fragmentierung prüfen
+Zuletzt gespieltes Spiel merken
+Fehler! Das Spiel ist fragmentiert.
+Fehler! Der Eintrag konnte nicht gestartet werden.
+Test
+Frei lassen bei Gast-Anmeldung
+Alternativen Kern laden
+Alternativer Datenlesemodus
+Syscalls entladen
+0 PSS Modus
+DVD-DL deaktivieren
+IGR deaktivieren
+Verkleinerter cdvdfsv Puffer
+dev9 Modul verbergen
+Alternative IGR Kombination
+VMC wird bei Größenänderung neu formatiert
+Erstellen
+Bearbeiten
+Abbrechen
+Zurücksetzen
+benutze generic
+VMC konfigurieren
+Name
+Größe
+Status
+Fortschritt
+VMC-Datei existiert
+Ungültige VMC-Datei, Grösse ist inkorrekt
+VMC-Datei muss erstellt werden
+Fehler mit VMC %s, mit echter Karte im Anschluß %d fortfahren?
+Automatische Aktualisierung
+Über OPL
+Programmierer
+USB Verzögerung
+USB Pfad
+Frei lassen um in den Browser zurückzukehren
+Wert in Minuten, 0 um Abschalten zu verhindern
+Automatisches abschalten der HDD
+Videomodus
+Dialogfarbe
+Auswahlfarbe
+Spielinformation anzeigen
+Spielinformation
+Custom ELF
+Farbauswahl
+Neu verbinden
+Frei lassen um Freigabe zu wählen
+ETH Pfad
+Löschen
+Leertaste
+Eingabe
+Modus
+VMC Anschluß 1
+VMC Anschluß 2
+Spiel ID
+DMA Modus
+V-Sync
+Modus 1
+Modus 2
+Modus 3
+Modus 4
+Modus 5
+Modus 6
+Modus 7
+Modus 8
+Modus 9
+CDVD Verzögerung
+Verzögerung bei CDVD Funktionen (0 ist Vorgabe)
